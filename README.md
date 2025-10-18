@@ -5,7 +5,7 @@ This is a console-based Library Management System developed in Java with JDBC co
 Features
 Add Book: Add new books with validation for title and author using regex.
 Show All Books: Display all books in the library.
-Show Book by ID: Search and display details of a book by its ID.
+Show available books only
 Borrow Book: Borrow a book only if it is available.
 Return Book: Return a book only if it was borrowed.
 Input Validation:
